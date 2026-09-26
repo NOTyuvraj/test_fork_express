@@ -118,3 +118,11 @@ describe('without NODE_ENV', function(){
     assert.strictEqual(app.get('env'), 'development')
   })
 })
+
+
+describe('repository refresh smoke test', function () {
+  it('should preserve the refresh verification marker', function () {
+    const marker = 'repository-refresh-test-v1'
+    assert.strictEqual(marker.includes('refresh'), true)
+  })
+})
