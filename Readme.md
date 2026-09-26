@@ -284,7 +284,5 @@ The original author of Express is [TJ Holowaychuk](https://github.com/tj)
 
 ## Refresh verification
 
-The marker `refresh-smoke-test-v1` confirms that the repository index was refreshed from the latest Git commit (x2).
-## Refresh verification
+The marker `refresh-smoke-test-v2` confirms that the repository index was refreshed from the latest Git commit (x2).
 
-The marker `refresh-smoke-test-v1` confirms that the repository index was refreshed from the latest Git committed etetetete.
